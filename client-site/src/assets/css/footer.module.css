@@ -1,0 +1,8 @@
+.footer {
+  height: 50px;
+  display: flex;
+}
+.footer h6 {
+  margin: auto;
+  color: #ffffff;
+}

@@ -1,0 +1,4 @@
+.form button,
+.form input {
+  box-shadow: none !important;
+}

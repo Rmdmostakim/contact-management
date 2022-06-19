@@ -1,0 +1,18 @@
+.box {
+  height: 70vh;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 2px solid rgb(116, 113, 113);
+  border-left: 2px solid rgb(116, 113, 113);
+  border-right: 2px solid rgb(116, 113, 113);
+  overflow-y: scroll;
+}
+.box::-webkit-scrollbar {
+  width: 1px;
+}
+
+.search_menu input,
+.search_menu button,
+.search_menu a {
+  box-shadow: none !important;
+}

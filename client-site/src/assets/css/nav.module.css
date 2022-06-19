@@ -1,0 +1,39 @@
+.nav button {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+.nav button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+  border: none !important;
+}
+.nav a {
+  text-decoration: none;
+}
+.nav_brand a {
+  color: #d3d3d3;
+}
+.dropdown_menu li {
+  list-style: none;
+  text-align: center;
+}
+.dropdown_menu a,
+.dropdown_menu button {
+  color: #d3d3d3;
+}
+.nav_brand a:hover,
+.dropdown_menu a:hover,
+.dropdown_menu button:hover {
+  color: #c3bdbd !important;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #d3d3d3;
+  border-radius: 50%;
+}
+.active {
+  color: #ffffff !important;
+}

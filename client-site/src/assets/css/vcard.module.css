@@ -1,0 +1,26 @@
+.card {
+  display: inline-block;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+.card a {
+  text-decoration: none;
+}
+.profile_box button {
+  box-shadow: none !important;
+}
+.clickableBtns li {
+  list-style: none;
+}
+.clickableBtns li a {
+  text-decoration: none;
+  margin-left: 6px;
+}
+.clickableBtns button {
+  color: red;
+  outline: none !important;
+  box-shadow: none !important;
+}
